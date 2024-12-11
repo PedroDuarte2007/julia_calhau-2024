@@ -1,4 +1,4 @@
-# Repositório com materiais de aulas (códigos, exercícios, desafios, atividades)
+# Repositório com materiais de aulas (códigoss, exercícios, desafios, atividades)
 ## Cursos Técnico em Desenvolvimento de Sistemas (1200 horas)
 ## OBS
 Os códigos fonte, exemplos e materiais didáticos serão adicionados a este repositório ao longo do ano de 2024, consulte também os repositórios senai2024, senai2023, senai2022 e senai2021 pois estão repletos de materiais dos anos passados.
